@@ -7,3 +7,6 @@
 * [Py-CODAPI](https://github.com/Lierrmm/Py-CODAPI) - 5 Stars - 1 Watchers - 1 Forks
 * [WWIIStatsViewer](https://github.com/Lierrmm/WWIIStatsViewer) - 4 Stars - 1 Watchers - 1 Forks
 <!-- most_stars ends -->
+
+
+![Build README](https://github.com/Lierrmm/Lierrmm/workflows/Build%20README/badge.svg)
