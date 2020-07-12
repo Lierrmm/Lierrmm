@@ -111,9 +111,19 @@ if __name__ == "__main__":
     readme_contents = readme.open().read()
     rewritten = replace_chunk(readme_contents, "most_stars", md)
 
+    # Write out full project-releases.md file
+    project_releases_md = "\n".join(
+        [
+            (
+                "* **[{repo}]({repo_url})** - {stars} Stars - {watches} Watchers - {forks} Forks:\n"
+                "<br>{description}"
+            ).format(**release)
+            for release in releases
+        ]
+    )
     project_releases_content = project_releases.open().read()
     project_releases_content = replace_chunk(
-        project_releases_content, "most_stars", md
+        project_releases_content, "recent_releases", project_releases_md
     )
 
     project_releases.open("w").write(project_releases_content)
