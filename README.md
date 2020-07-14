@@ -8,5 +8,4 @@
 * [WWIIStatsViewer](https://github.com/Lierrmm/WWIIStatsViewer) - 4 Stars - 1 Watchers - 1 Forks
 <!-- most_stars ends -->
 
-
-![Build README](https://github.com/Lierrmm/Lierrmm/workflows/Build%20README/badge.svg)
+[![HitCount](http://hits.dwyl.com/lierrmm/lierrmm.svg)](http://hits.dwyl.com/lierrmm/lierrmm)
