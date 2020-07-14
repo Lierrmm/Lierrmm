@@ -1,5 +1,6 @@
-### Check out my most popular repos!
+[![HitCount](http://hits.dwyl.com/lierrmm/lierrmm.svg)](http://hits.dwyl.com/lierrmm/lierrmm)
 
+### Most Stared Projects
 <!-- most_stars starts -->
 * [Node-CallOfDuty](https://github.com/Lierrmm/Node-CallOfDuty) - 43 Stars - 5 Watchers - 17 Forks
 * [C-IP](https://github.com/Lierrmm/C-IP) - 19 Stars - 3 Watchers - 7 Forks
@@ -7,5 +8,3 @@
 * [Py-CODAPI](https://github.com/Lierrmm/Py-CODAPI) - 5 Stars - 1 Watchers - 1 Forks
 * [WWIIStatsViewer](https://github.com/Lierrmm/WWIIStatsViewer) - 4 Stars - 1 Watchers - 1 Forks
 <!-- most_stars ends -->
-
-[![HitCount](http://hits.dwyl.com/lierrmm/lierrmm.svg)](http://hits.dwyl.com/lierrmm/lierrmm)
