@@ -1,5 +1,3 @@
-[![HitCount](http://hits.dwyl.com/lierrmm/lierrmm.svg)](http://hits.dwyl.com/lierrmm/lierrmm)
-
 ### Most Stared Projects
 <!-- most_stars starts -->
 * [Node-CallOfDuty](https://github.com/Lierrmm/Node-CallOfDuty) - 43 Stars - 5 Watchers - 17 Forks
