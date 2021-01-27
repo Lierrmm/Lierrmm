@@ -3,6 +3,6 @@
 * [Node-CallOfDuty](https://github.com/Lierrmm/Node-CallOfDuty) - 99 Stars - 11 Watchers - 25 Forks
 * [Py-CODAPI](https://github.com/Lierrmm/Py-CODAPI) - 5 Stars - 1 Watchers - 1 Forks
 * [CODSharp](https://github.com/Lierrmm/CODSharp) - 5 Stars - 2 Watchers - 1 Forks
+* [myCODScraper](https://github.com/Lierrmm/myCODScraper) - 5 Stars - 0 Watchers - 0 Forks
 * [WWIIStatsViewer](https://github.com/Lierrmm/WWIIStatsViewer) - 4 Stars - 1 Watchers - 1 Forks
-* [xbdm.js](https://github.com/Lierrmm/xbdm.js) - 4 Stars - 1 Watchers - 0 Forks
 <!-- most_stars ends -->
