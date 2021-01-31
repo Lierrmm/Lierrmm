@@ -1,6 +1,6 @@
 ### Most Stared Projects
 <!-- most_stars starts -->
-* [Node-CallOfDuty](https://github.com/Lierrmm/Node-CallOfDuty) - 100 Stars - 12 Watchers - 25 Forks
+* [Node-CallOfDuty](https://github.com/Lierrmm/Node-CallOfDuty) - 101 Stars - 12 Watchers - 25 Forks
 * [Py-CODAPI](https://github.com/Lierrmm/Py-CODAPI) - 5 Stars - 1 Watchers - 1 Forks
 * [CODSharp](https://github.com/Lierrmm/CODSharp) - 5 Stars - 2 Watchers - 1 Forks
 * [myCODScraper](https://github.com/Lierrmm/myCODScraper) - 5 Stars - 0 Watchers - 0 Forks
