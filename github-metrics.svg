@@ -1356,16 +1356,16 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -1487,7 +1487,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    897 views in last two weeks
+                    908 views in last two weeks
                   
                 </div>
                             </section>
@@ -1689,15 +1689,9 @@
                             <div class="entry">
                 <span class="value">203</span>
                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                1
+                2
                 
                   <div class="bottom">Nov.</div>
-                
-              </div>
-                            <div class="entry">
-                <span class="value"></span>
-                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                2
                 
               </div>
                             <div class="entry">
@@ -1772,6 +1766,12 @@
                 14
                 
               </div>
+                            <div class="entry">
+                <span class="value"></span>
+                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                15
+                
+              </div>
                         </div>
                     </section>
                     <section class="column chart">
@@ -1780,15 +1780,9 @@
                             <div class="entry">
                 <span class="value"></span>
                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                1
+                2
                 
                 <div class="bottom">Nov.</div>
-                
-              </div>
-                            <div class="entry">
-                <span class="value"></span>
-                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                2
                 
               </div>
                             <div class="entry">
@@ -1861,6 +1855,12 @@
                 <span class="value"></span>
                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                 14
+                
+              </div>
+                            <div class="entry">
+                <span class="value"></span>
+                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                15
                 
               </div>
                         </div>
@@ -1983,7 +1983,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="28.952429842573583 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="28.99486652977413 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2593,12 +2593,12 @@
             </div>
                         <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-              Bump axios from 0.22.0 to 0.23.0
+              Bump axios from 0.21.4 to 0.22.0
 
-Bumps [axios](https://github.com/axios/axios) from 0.22.0 to 0.23.0.
+Bumps [axios](https://github.com/axios/axios) from 0.21.4 to 0.22.0.
 - [Release notes](https://github.com/axios/axios/releases)
 - [Changelog](https://github.com/axios/axios/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/axios/axios/compare/v0.22.0...v0.23.0)
+- [Commits](https://github.com/axios/axios/compare/v0.21.4...v0.22.0)
 
 ---
 updated-dependencies:
@@ -2613,7 +2613,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">fead71ff</span>
+                            <span class="code">16f65948</span>
                             <span class="code">package.json</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
@@ -2629,8 +2629,8 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 <span class="token unchanged"><span class="token prefix unchanged"> </span><span class="token line"> "url": "https://github.com/sponsors/Lierrmm"
 </span></span>},
 "dependencies": {
-<span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"> "axios": "^0.22.0",
-</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"> "axios": "^0.23.0",
+<span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"> "axios": "^0.21.1",
+</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"> "axios": "^0.22.0",
 </span></span><span class="token unchanged"><span class="token prefix unchanged"> </span><span class="token line"> "axios-rate-limit": "^1.3.0",
 </span><span class="token prefix unchanged"> </span><span class="token line"> "puppeteer": "^10.1.0",
 </span><span class="token prefix unchanged"> </span><span class="token line"> "puppeteer-extra": "^3.1.18",</span></span></code>
@@ -2684,7 +2684,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Nov 2021, 23:22:09 (timezone Europe/London) with lowlighter/metrics@3.15.0</span>
+                <span>Last updated 15 Nov 2021, 01:09:21 (timezone Europe/London) with lowlighter/metrics@3.15.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
