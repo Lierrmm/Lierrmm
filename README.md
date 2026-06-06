@@ -113,7 +113,7 @@
 			<h3><a href="https://github.com/Lierrmm/Node-CallOfDuty">Call of Duty API</a></h3>
 			<p>A promised based wrapper around the Call of Duty API. Since been deprecated.</p>
 			<p>
-				<img src="https://img.shields.io/badge/Deprecated-3776AB?logo=python&logoColor=fff" alt="Deprecated"/>
+				<img src="https://img.shields.io/badge/Deprecated-3776AB?logoColor=fff" alt="Deprecated"/>
         <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
 			</p>
 		</td>
