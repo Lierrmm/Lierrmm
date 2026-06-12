@@ -135,4 +135,4 @@
 </table>
 
 ## Language Stats
-![Top Languages](https://vani-stats.vercel.app/api?username=Lierrmm&theme=dark&max_langs=5)
+![Top Languages](https://vani-stats.vercel.app/api?username=Lierrmm&theme=dark&max_langs=10)
